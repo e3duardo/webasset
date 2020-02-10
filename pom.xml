@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.capacitare</groupId>
 	<artifactId>webasset</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.1</version>
 	<name>Archetype - webasset</name>
 	<url>http://maven.apache.org</url>
 
